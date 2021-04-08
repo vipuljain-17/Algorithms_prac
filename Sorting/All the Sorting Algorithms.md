@@ -2,3 +2,4 @@
 
 ### All the sorting algo are:
 - Bubble Sort
+- Insertion Sort

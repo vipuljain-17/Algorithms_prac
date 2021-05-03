@@ -1,9 +1,9 @@
 ### Using list
 
 class Node:
-    def __init__(self, data = None, next_node = None):
-        self.data = data
-        self.next = next_node
+	def __init__(self, data = None, next_node = None):
+		self.data = data
+		self.next = next_node
 
 class Queue:
 	"""docstring for Queue using list in python"""
